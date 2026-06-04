@@ -1,0 +1,16 @@
+body{
+    font-family: Arial, sans-serif;
+}
+
+.card{
+    transition: 0.3s ease;
+}
+
+.card:hover{
+    transform: translateY(-6px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
+
+button{
+    margin-top: 10px;
+}
